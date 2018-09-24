@@ -1,28 +1,25 @@
-# This is a large heading
+# Fanny Taborsak-Lines
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Sundbyberg in Stockholm county in Sweden.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *A little life* by Hanya Yanagihara
+- *1984* by George Orwell
+- *Harry Potter* by J.K. Rowling
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. La Esquina in New York City.
+2. Monte in Rovinj.
+3. Bord 27 in Gothenburg.
+
+### Contact
+
+The best way to get in touch with me is to send an e-mail to *fanny.taborsak@scilifelab.se*.
