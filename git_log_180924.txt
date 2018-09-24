@@ -1,0 +1,23 @@
+commit b9cefa349d83b9b0629412f543e2e7bc3e15038b
+Author: taborsak <fanny.taborsak@scilifelab.se>
+Date:   Mon Sep 24 10:21:24 2018 +0200
+
+    updated gitignore
+
+commit 79796591d70817de3e97941e37fa67cbc1b7ce43
+Author: taborsak <fanny.taborsak@scilifelab.se>
+Date:   Mon Sep 24 10:13:56 2018 +0200
+
+    added gitignore
+
+commit 343c1ff6a1a13cd6c5ff6fa5237fe59b4f199eb4
+Author: taborsak <fanny.taborsak@scilifelab.se>
+Date:   Mon Sep 24 09:15:54 2018 +0200
+
+    added two files
+
+commit 69a013dd981f50c500b0e32fa26efa5b67b9c1c7
+Author: taborsak <fanny.taborsak@scilifelab.se>
+Date:   Mon Sep 24 09:06:09 2018 +0200
+
+    added readme.txt
